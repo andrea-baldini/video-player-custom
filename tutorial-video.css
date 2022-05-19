@@ -1,0 +1,52 @@
+        body{
+            font-family: Arial;
+            font-size: 1em;
+            line-height: 1.5em;
+            margin:10px;
+            padding: 10px;
+        }
+
+        video{width:90%}
+
+        .sx{float:left}
+        .dx{float:right}
+
+        button{
+            margin:10px;
+            padding:10px;
+        }
+
+        #testFORMvideo{
+            margin:5px;
+            padding:5px;
+            border: 1px solid red;
+            display:none
+        }
+
+        #feedback h6{
+            color:blue; margin-right: 10px;
+        }
+
+        input{
+            margin:5px;
+            padding:5px;
+        }
+ 
+        input.clickable:hover{
+            cursor: pointer;
+            background-color: #1573475d;
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+            font-weight: 600;
+            
+        }
+
+        input.clickable{
+            border-radius: 10px;
+            outline: none;
+            width: 10%;
+            text-align: center;
+        }
+
+        video {
+            cursor: pointer;
+        }
