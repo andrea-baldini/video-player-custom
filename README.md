@@ -1,4 +1,4 @@
-# A simple custom video player (test version)
+# A minimal and simple custom video player (test version)
 
 <h3>Created with bootstrap and vanilla js to test my knowledge in localStorage</h3>
 
